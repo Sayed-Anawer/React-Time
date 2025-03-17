@@ -1,0 +1,25 @@
+{
+  "name": "react-time",
+  "version": "1.0.0",
+  "description": "React from scratch",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sayed-Anawer/React-Time.git"
+  },
+  "keywords": [
+    "nothing"
+  ],
+  "author": "Sayed-Anawer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sayed-Anawer/React-Time/issues"
+  },
+  "homepage": "https://github.com/Sayed-Anawer/React-Time#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
