@@ -26,3 +26,20 @@ The crossorigin attribute is used in HTML (mainly in <script>, <img>, and <link>
 #### 🎯 Main Difference
 - ``` package.json ``` declares what your project needs.
 - ``` package-lock.json ``` ensures everyone installs the same exact versions.
+
+## 3. What is a Bundler?
+
+A bundler is a tool that takes multiple JavaScript, CSS, images, and other assets, processes them, and combines them into a smaller number of optimized files. ```Webpack``` is one of the most popular bundlers.
+
+#### 🎯 Why Do We Need a Bundler?
+
+- ✅ Merges multiple files into one or a few optimized files.
+- ✅ Minifies and compresses code to improve performance.
+- ✅ Optimizes assets like images and CSS.
+- ✅ Handles module dependencies (ES6 imports, CommonJS, etc.).
+
+#### Other Popular Bundlers - 
+
+- ```Vite``` (Faster, optimized for modern JavaScript frameworks like React & Vue)
+- ```Parcel``` (Zero-config, great for simple projects)
+- ```Rollup``` (Common for libraries & ES modules)
