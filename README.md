@@ -1,6 +1,6 @@
 # React from Scratch
 
-Here many basic things are noted.
+React is a popular open-source JavaScript library for building user interfaces (UIs), particularly for single-page applications (SPAs). It is widely used for creating dynamic, interactive, and reusable UI components. React allows developers to build complex UIs by breaking them down into smaller, reusable pieces called components
 
 ## 1. What is crossorigin (CORS)
 
